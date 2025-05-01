@@ -4,7 +4,7 @@ Analyze Connecticut residential and commercial property sales from 2001 to 2021 
 
 ## 📝 Article
 
-You can access the full article here: [Report](https://anpabelt.medium.com/analyzing-two-decades-of-u-s-real-estate-sales-a-python-visualization-approach-de23e7fb0479) 📝
+You can access the full article here: [Analyzing Two Decades of U.S. Real Estate Sales: A Python Visualization Approach](https://anpabelt.medium.com/analyzing-two-decades-of-u-s-real-estate-sales-a-python-visualization-approach-de23e7fb0479) 📝
 
 ## 📊 Overview 😎
 
